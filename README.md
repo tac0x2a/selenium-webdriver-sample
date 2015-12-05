@@ -10,6 +10,19 @@ install and start server.
 % selenium-server
 ```
 
+## Gems
+
+```
+% bundle install
+```
+
+or
+
+```
+% rbenv exec bundle install
+```
+
+
 ## driver
 install.
 
